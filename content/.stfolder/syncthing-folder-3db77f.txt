@@ -1,5 +1,0 @@
-# This directory is a Syncthing folder marker.
-# Do not delete.
-
-folderID: stafe-uuxq3
-created: 2024-06-12T16:50:23+05:30
