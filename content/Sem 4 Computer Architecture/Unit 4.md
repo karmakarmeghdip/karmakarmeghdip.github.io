@@ -37,6 +37,7 @@ Cluster computing involves connecting multiple independent computers (nodes) to 
 - **High-Performance Interconnect**: Uses fast network technologies such as InfiniBand or Gigabit Ethernet.
 - **Scalability**: Clusters can be scaled by adding more nodes.
 - **Distributed Memory**: Each node has its own memory, but the nodes can communicate over the network.
+- **Types of Cluster Computing**: [[Types of Cluster Computing]]
 
 ### Non von Neumann Architectures
 
