@@ -21,4 +21,7 @@ Thanks for visiting, check out my College notes if u find it useful
 		- [[CA Unit 4]]
 	- Formal Language and Automata
 		- [[FLA Unit 1]]
+		- [[FLA Unit 2]]
+		- [[FLA Unit 3]]
+		- [[FLA Unit 4]]
 	- Design and Analysis: Coming soon
