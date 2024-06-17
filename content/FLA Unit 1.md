@@ -44,19 +44,19 @@ The Chomsky hierarchy categorizes formal languages based on their generative gra
    - **Grammar**: Context-sensitive grammar.
    - **Production**: αAβ → αγβ, where A is a non-terminal and α, β, γ are strings of terminals and non-terminals with γ not being empty.
    - **Machine**: Linear bounded automaton.
-   - **Example**: L = {a^n b^n c^n | n ≥ 1}.
+   - **Example**: L = $a^n b^n c^n | n ≥ 1$.
 
 3. **Type 2: Context-Free Languages**
    - **Grammar**: Context-free grammar.
    - **Production**: A → γ, where A is a non-terminal and γ is a string of terminals and/or non-terminals.
    - **Machine**: Pushdown automaton.
-   - **Example**: L = {a^n b^n | n ≥ 0}.
+   - **Example**: L = $a^n b^n | n ≥ 0$.
 
 4. **Type 3: Regular Languages**
    - **Grammar**: Regular grammar.
    - **Production**: A → aB or A → a, where A and B are non-terminals and a is a terminal.
    - **Machine**: Finite automaton.
-   - **Example**: L = {a^n | n ≥ 0}.
+   - **Example**: L = $a^n | n ≥ 0$.
 
 ### Summary
 - **Alphabet**: Set of symbols.
