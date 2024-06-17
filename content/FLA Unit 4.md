@@ -1,15 +1,15 @@
 ## Context-Sensitive Languages
 
 ### Context-Sensitive Grammars (CSG)
-- **Definition**: A Context-Sensitive Grammar (CSG) is a formal grammar where every production rule is of the form \( \alpha A \beta \rightarrow \alpha \gamma \beta \) where \( A \) is a non-terminal, \( \alpha \) and \( \beta \) are strings of terminals and non-terminals, and \( \gamma \) is a string of terminals and non-terminals such that \( |\gamma| \geq 1 \).
+- **Definition**: A Context-Sensitive Grammar (CSG) is a formal grammar where every production rule is of the form $\alpha A \beta \rightarrow \alpha \gamma \beta$ where $A$ is a non-terminal, $\alpha$ and $\beta$ are strings of terminals and non-terminals, and $\gamma$ is a string of terminals and non-terminals such that $|\gamma| \geq 1$.
 - **Characteristics**:
   - Production rules can replace a non-terminal with a string of terminals and non-terminals, but the length of the string must be at least as long as the non-terminal being replaced.
   - The length of the string produced is never shorter than the length of the string before the production rule is applied.
-  - Special form of rules where \( S \rightarrow \epsilon \) (with \( S \) being the start symbol and \( \epsilon \) being the empty string) is allowed only if \( S \) does not appear on the right-hand side of any rule.
+  - Special form of rules where $S \rightarrow \epsilon$ (with $S$ being the start symbol and $\epsilon$ being the empty string) is allowed only if $S$ does not appear on the right-hand side of any rule.
 - **Example**:
   - For grammar with rules:
-    - \( S \rightarrow aSb \)
-    - \( S \rightarrow ab \)
+    - $S \rightarrow aSb$
+    - $S \rightarrow ab$
   - It generates strings like: `ab`, `aabb`, `aaabbb`, etc.
 
 ### Context-Sensitive Languages (CSL)
