@@ -49,3 +49,4 @@
 - **Context-Sensitive Languages**: Recognized by linear bounded automata.
 - **Recursively Enumerable Languages**: Recognized by Turing machines.
 ![[WhatsApp Image 2024-06-17 at 18.24.17_ba1e571e.jpg]]
+[source](https://excalidraw.com/#json=2ZlyxU4mSEJOQSOzc6xTY,cSO0ENmUs_nBf8vvm-MRGg)
