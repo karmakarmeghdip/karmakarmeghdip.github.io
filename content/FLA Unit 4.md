@@ -48,5 +48,4 @@
 - **Context-Free Languages**: Recognized by pushdown automata.
 - **Context-Sensitive Languages**: Recognized by linear bounded automata.
 - **Recursively Enumerable Languages**: Recognized by Turing machines.
-
-Understanding these concepts is essential for grasping the structure and limits of formal languages and automata theory.
+![[WhatsApp Image 2024-06-17 at 18.24.17_ba1e571e.jpg]]
