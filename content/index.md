@@ -27,4 +27,6 @@ Thanks for visiting, check out my College notes if u find it useful
 		- [[FLA Unit 5]]
 		- [[FLA Unit 6]]
 	- Design and Analysis of Algorithm
-		- [[DLA Unit 1]]
+		- [[DAA Unit 1]]
+		- [[DLA Unit 2]]
+		- [[DLA Unit 3]]
