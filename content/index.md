@@ -26,4 +26,5 @@ Thanks for visiting, check out my College notes if u find it useful
 		- [[FLA Unit 4]]
 		- [[FLA Unit 5]]
 		- [[FLA Unit 6]]
-	- Design and Analysis: Coming soon
+	- Design and Analysis of Algorithm
+		- [[DLA Unit 1]]
