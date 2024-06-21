@@ -39,6 +39,8 @@ The L10 (18hr) index is the noise level exceeded for 10% of the time over an 18-
 **Ld:**
 Ld (daytime noise level) is the average noise level over a specific daytime period, usually from 7 AM to 10 PM, and is used to evaluate the impact of noise on daily activities.
 
+[[Noise Measurment Examples and Numericals|Examples and Problems]]
+
 ### Noise Pollution Control
 
 Noise pollution control involves strategies and measures to reduce the amount and impact of unwanted sound. These can include:
