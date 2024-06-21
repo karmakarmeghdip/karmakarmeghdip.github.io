@@ -38,3 +38,5 @@ Thanks for visiting, check out my College notes if u find it useful
 		- [[EVS Unit 3]]
 		- [[EVS Unit 4]]
 		- [[EVS Unit 5]]
+		- [[EVS Unit 6]]
+		- [[EVS Unit 7]]
