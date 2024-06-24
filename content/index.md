@@ -12,31 +12,4 @@ Here is my [Resume](https://drive.google.com/open?id=1p8XuXfwnz3xuiy6yBJ-__QmZwf
 For now the website is still empty but I'll start daily blogs from July and also add pages for all the projects.
 
 Thanks for visiting, check out my College notes if u find it useful
-
-- Semester 4 Notes
-	- Computer Architecture
-		- [[CA Unit 1]]
-		- [[CA Unit 2]]
-		- [[CA Unit 3]]
-		- [[CA Unit 4]]
-	- Formal Language and Automata
-		- [[FLA Unit 1]]
-		- [[FLA Unit 2]]
-		- [[FLA Unit 3]]
-		- [[FLA Unit 4]]
-		- [[FLA Unit 5]]
-		- [[FLA Unit 6]]
-	- Design and Analysis of Algorithm
-		- [[DAA Unit 1]]
-		- [[DAA Unit 2]]
-		- [[DAA Unit 3]]
-		- [[DAA Unit 4]]
-		- [[DAA Unit 5]]
-	- Environmental Sciences
-		- [[EVS Unit 1]]
-		- [[EVS Unit 2]]
-		- [[EVS Unit 3]]
-		- [[EVS Unit 4]]
-		- [[EVS Unit 5]]
-		- [[EVS Unit 6]]
-		- [[EVS Unit 7]]
+[[college notes]]
