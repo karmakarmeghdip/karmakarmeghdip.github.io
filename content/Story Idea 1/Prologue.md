@@ -10,4 +10,4 @@ A knife can be seen lodged into the eyes of one of the barely alive huma... no c
 He tightens his glove and a faint glow appears on the piece of fabric, he proceeds to stretch his hands while pointing at them and snaps his fingers.
 Soon a glowing white rectangle appears underneath the ghouls feet, making them alert. Sensing danger, one of the ghouls try to leave the glowing rectangle only to be disintegrated upon crossing the border.
 "Formula 24 Sanctuary Creation complete", the arcanist says to himself. He then proceeds to clench his fist and says, "Collapse", after which the glowing rectangle proceeds to shrink in an accelerated pace, closing in on the remaining ghouls as they cry out in despair while their body disintegrates.
-"The people are turning into ghouls, this is not good. This must be the work of an Ancient Artifact, sucking the lifeforce out of the people. It was "
+"The people are turning into ghouls, this is not good. This must be the work of an Ancient Artifact, sucking the lifeforce out of the people. It was right of Marie to send me here. I must investigate this place.", the arcanist leaves the alley while thinking.
